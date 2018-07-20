@@ -4,7 +4,7 @@ My python library for debugging odoo apps.
 
 ## How to install
 
-This procedure is only for developement.
+This instruction is only for development.
 
 ```
 $ cd <to/this/repo>
